@@ -40,7 +40,7 @@ $(function () {
     console.log($(this).siblings('.description').val())
   }
   )
-
+  // we are creating a for loop and putting all these elements with a class of time block in to a node list. 
   $('.time-block').each(function () {
  // This block of code removes hour- and will only be seen as the numbers.
     var divtime = parseInt($(this).attr('id').split('hour-')[1])
