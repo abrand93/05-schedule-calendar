@@ -11,7 +11,7 @@ I learned how to use jquere. We also use splice for the firtst time. This helped
 ## Screen Shots Of Redundant Code We Removed From CSS. 
 Here is the project in action 
 
-![alt css before](/Screenshot%202023-04-10%20171722.png)
+![alt css before](Screenshot%202023-04-10%20171722.png)
 
 
 
